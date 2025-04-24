@@ -1,0 +1,6 @@
+git clone https://github.com/твой_логин/youtube-downloader.git
+cd youtube-downloader
+# Сохрани index.html сюда
+git add index.html
+git commit -m "добавлен сайт"
+git push origin main
